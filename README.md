@@ -22,7 +22,7 @@ Dashboard: https://public.tableau.com/views/LokSabha_Election_2019/Story2?:langu
 
 <h3>Demo Video</h3>
 
-It is a word file that contains all videos of how we made this complete project from Scratch.
+It is a word file that contains link of all videos of how we made this project from Scratch.
 
 <h3>Project Report</h3>
 
