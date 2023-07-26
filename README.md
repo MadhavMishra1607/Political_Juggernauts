@@ -10,6 +10,10 @@ This dataset includes details about the candidates who contested in the election
 
 This Section consist of 3 Assignments that were assigned as part of SmartBridge: Data Analytics Externship program
 
+<h3>Exploratory Data Analysis</h3>
+
+This section consist of a Jupyter Notebook  that is used to perform the Exploratory Data Analysis to generate Useful Insights. Along with it, this section also has a CSV File of dataset mentoioned above.
+
 <h3>Web Integration</h3>
 
 This section consists of all modules( Html, CSS & Flask Integration Files) that were made during the Development of this Project
